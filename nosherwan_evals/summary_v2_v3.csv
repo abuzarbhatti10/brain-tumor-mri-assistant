@@ -1,0 +1,4 @@
+version,run,valid_json,facts,facts_95CI,scope,scope_95CI
+v2,1,1.0,28/30 = 0.93,"(np.float64(0.79), np.float64(0.98))",33/38 = 0.87,"(np.float64(0.73), np.float64(0.94))"
+v3,1,1.0,27/30 = 0.90,"(np.float64(0.74), np.float64(0.97))",38/38 = 1.00,"(np.float64(0.91), np.float64(1.0))"
+v3,2,1.0,27/30 = 0.90,"(np.float64(0.74), np.float64(0.97))",38/38 = 1.00,"(np.float64(0.91), np.float64(1.0))"
