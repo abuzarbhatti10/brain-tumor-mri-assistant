@@ -1,4 +1,5 @@
 # brain-tumor-mri-assistant
+# M.Abuzar Shoukat
 ## Week 9: LLMs and Prompt Engineering
 
 - Provider and model: Groq, openai/gpt-oss-20b; key stored in Kaggle Secrets (never in a cell)
